@@ -71,8 +71,8 @@ Query path:
 Backing services run in Docker; the API runs locally against them.
 
 ```bash
-git clone https://github.com/shepdogg6t7-glitch/atlasops.git
-cd atlasops
+git clone https://github.com/shepdogg6t7-glitch/atlasops-fullstack.git
+cd atlasops-fullstack
 cp .env.example .env             # edit values if needed
 docker compose up -d             # Postgres, Redis, MinIO, Redpanda (ports bound to localhost)
 python -m venv .venv && source .venv/bin/activate
