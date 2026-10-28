@@ -114,6 +114,7 @@ class node_webapp,node_demo,node_user toneBlue
 class node_api,node_auth,node_limits,node_uploadcheck,node_orgproject toneAmber
 class node_worker,node_pdf,node_chunkembed toneMint
 class node_objectstore,node_eventbus,node_dbsession,node_schema,node_postgres,node_redis toneRose
+```
 
 ## Stack
 
